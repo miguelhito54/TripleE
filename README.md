@@ -1,2 +1,3 @@
-# TripleE
-Pagina Web de estudiante enseña estudiante para la clase de programación orientada a la web, :D
+# >Proyecto Triple E< ![MinecraftChicken Emoji](https://cdn3.emoji.gg/emojis/26959-minecraftchicken.png)
+
+Tablero Kanban: https://trello.com/b/tuDMkWAY/web-page-ucc
